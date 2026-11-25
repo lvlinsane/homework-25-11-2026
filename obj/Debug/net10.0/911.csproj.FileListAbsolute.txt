@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\911\bin\Debug\net10.0\911.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\911\bin\Debug\net10.0\911.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\911\bin\Debug\net10.0\911.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\911\bin\Debug\net10.0\911.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\911\bin\Debug\net10.0\911.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\refint\911.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\911.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\911\obj\Debug\net10.0\ref\911.dll
